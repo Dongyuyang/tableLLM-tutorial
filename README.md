@@ -1,5 +1,6 @@
-# On the Use of Large Language Models for Table Tasks [[slides](https://dongyuyang.github.io/tableLLM-tutorial/cikm_tutorial_all.pdf)]
+# On the Use of Large Language Models for Table Tasks 
 
+### [[slides](https://dongyuyang.github.io/tableLLM-tutorial/cikm_tutorial_all.pdf)]
 The proliferation of LLMs has catalyzed a diverse array of applications. This tutorial delves into the application of LLMs for tabular data and targets a variety of table-related tasks, such as table understanding, text-to-SQL conversion, and tabular data preprocessing. 
 
 It surveys LLM solutions to these tasks in five classes, categorized by their underpinning techniques: prompting, fine-tuning, RAG, agents, and multimodal methods. It discusses how LLMs offer innovative ways to interpret, augment, query, and cleanse tabular data, featuring academic contributions and their practical use in the industrial sector. 
